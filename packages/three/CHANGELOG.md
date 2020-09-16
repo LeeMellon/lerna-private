@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/LeeMellon/lerna-private/compare/three@0.1.0...three@0.2.0) (2020-09-16)
+
+
+### Features
+
+* adds docs commited as a feature ([5fbb3dc](https://github.com/LeeMellon/lerna-private/commit/5fbb3dcc322a51f5aa19b9465d53bbe657c82145))
+
+
+
+
+
 # 0.1.0 (2020-09-16)
 
 

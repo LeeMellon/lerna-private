@@ -1,6 +1,6 @@
 {
   "name": "four",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "then there's four.",
   "author": "IMGoodrich <igoodrich@phase2technology.com>",
   "homepage": "https://github.com/LeeMellon/lerna-private#readme",
@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "one": "^0.1.0",
-    "three": "^0.1.0"
+    "three": "^0.2.0"
   }
 }
