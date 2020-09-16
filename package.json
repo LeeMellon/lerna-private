@@ -1,0 +1,20 @@
+{
+  "name": "Lerna-Private",
+  "private": true,
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "jest": "^26.4.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "commitizen": "^4.2.1",
+    "lerna": "^3.22.1"
+  },
+  "scripts": {
+    "test" : "jest"
+  }
+}

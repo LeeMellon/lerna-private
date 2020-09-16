@@ -1,0 +1,26 @@
+{
+  "name": "three",
+  "version": "0.0.0",
+  "description": "a lerna package that contains a fucntion so complex you would beg for death should you ever see it all at once.",
+  "author": "IMGoodrich <igoodrich@phase2technology.com>",
+  "homepage": "https://github.com/LeeMellon/lerna-private#readme",
+  "license": "ISC",
+  "main": "lib/three.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeMellon/lerna-private.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/LeeMellon/lerna-private/issues"
+  }
+}
