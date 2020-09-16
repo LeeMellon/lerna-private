@@ -1,5 +1,5 @@
 {
-  "name": "two",
+  "name": "@imgoodrich/two",
   "version": "0.0.0",
   "description": "a lerna package containing even more splendiforous \"numbers\"",
   "author": "IMGoodrich <igoodrich@phase2technology.com>",
