@@ -1,6 +1,11 @@
 {
   "name": "Lerna-Private",
   "private": true,
+  "version": "0.0.0-development",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeeMellon/lerna-private.git"
+  },
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
     "jest": "^26.4.2"
@@ -15,6 +20,9 @@
     "lerna": "^3.22.1"
   },
   "scripts": {
-    "test" : "jest"
+    "test": "jest",
+    "lerna:install": "lerna bootstrap --hoist && lerna link",
+    "postinstall": "npm run lerna:install",
+    "publish:lerna": "lerna publish  --yes"
   }
 }
