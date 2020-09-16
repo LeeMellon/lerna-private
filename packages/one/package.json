@@ -1,6 +1,6 @@
 {
-  "name": "one",
-  "version": "0.1.0",
+  "name": "@imgoodrich/one",
+  "version": "0.0.0",
   "description": "a lerna package containing a mind blowing array of \"numbers\"",
   "author": "IMGoodrich <igoodrich@phase2technology.com>",
   "homepage": "https://github.com/LeeMellon/lerna-private#readme",
