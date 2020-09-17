@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/LeeMellon/lerna-private/compare/@imgoodrich/two@0.2.1...@imgoodrich/two@0.3.0) (2020-09-17)
+
+
+### Features
+
+* now with 75% more space ([52f59c6](https://github.com/LeeMellon/lerna-private/commit/52f59c66ce18090d63b4e1a6b5dad6ad56c687b6))
+
+
+
+
+
 ## [0.2.1](https://github.com/LeeMellon/lerna-private/compare/@imgoodrich/two@0.2.0...@imgoodrich/two@0.2.1) (2020-09-17)
 
 
