@@ -23,6 +23,7 @@
     "test": "jest",
     "lerna:install": "lerna bootstrap --hoist && lerna link",
     "postinstall": "npm run lerna:install",
-    "publish:lerna": "lerna publish  --yes"
+    "publish:lerna": "lerna publish  --yes",
+    "commit": "cz"
   }
 }
