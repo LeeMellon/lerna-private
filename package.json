@@ -1,6 +1,5 @@
 {
   "name": "Lerna-Private",
-  "private": true,
   "version": "0.0.0-development",
   "repository": {
     "type": "git",
