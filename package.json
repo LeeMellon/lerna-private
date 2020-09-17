@@ -8,7 +8,8 @@
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
-    "jest": "^26.4.2"
+    "jest": "^26.4.2",
+    "@lerna/link": "^3.21.0"
   },
   "config": {
     "commitizen": {
@@ -21,7 +22,7 @@
   },
   "scripts": {
     "test": "jest",
-    "lerna:install": "lerna bootstrap --hoist && lerna link",
+    "lerna:install": "lerna link",
     "postinstall": "npm run lerna:install",
     "publish:lerna": "lerna publish  --yes"
   }
