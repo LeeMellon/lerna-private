@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/LeeMellon/lerna-private/compare/@imgoodrich/two@0.1.0...@imgoodrich/two@0.2.0) (2020-09-17)
+
+
+### Features
+
+* **two:** adds dummy docs as a feat ([36de0c0](https://github.com/LeeMellon/lerna-private/commit/36de0c08fbf64cc289c4348765b969389a9ff87f))
+
+
+
+
+
 # 0.1.0 (2020-09-17)
 
 
