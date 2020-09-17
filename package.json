@@ -21,7 +21,7 @@
   },
   "scripts": {
     "test": "jest",
-    "lerna:install": "lerna link",
+    "lerna:install": "lerna bootstrap --hoist && lerna link",
     "postinstall": "npm run lerna:install",
     "publish:lerna": "lerna publish  --yes"
   }
