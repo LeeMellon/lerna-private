@@ -1,6 +1,6 @@
 {
   "name": "@imgoodrich/four",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "then there's four.",
   "author": "IMGoodrich <igoodrich@phase2technology.com>",
   "homepage": "https://github.com/LeeMellon/lerna-private#readme",
@@ -23,11 +23,11 @@
   "bugs": {
     "url": "https://github.com/LeeMellon/lerna-private/issues"
   },
-  "dependencies": {
-    "one": "^0.0.0",
-    "three": "^0.0.0"
-  },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@imgoodrich/one": "^0.2.1",
+    "@imgoodrich/three": "^0.2.0"
   }
 }
