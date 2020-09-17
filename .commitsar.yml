@@ -1,3 +1,3 @@
 commits:
-  strict: true
+  strict: false
   limit: 1
