@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/LeeMellon/lerna-private/compare/@imgoodrich/one@0.1.0...@imgoodrich/one@0.2.0) (2020-09-17)
+
+
+### Bug Fixes
+
+* add dummy docs ([8d6e909](https://github.com/LeeMellon/lerna-private/commit/8d6e9091e16790070c65459b755bb9dead2272d4))
+
+
+### Features
+
+* update one test docs ([dc6d848](https://github.com/LeeMellon/lerna-private/commit/dc6d84840fc3536f0ba00e271436b205ee13c8c6))
+
+
+
+
+
 # 0.1.0 (2020-09-17)
 
 
