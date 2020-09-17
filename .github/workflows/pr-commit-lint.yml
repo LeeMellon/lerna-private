@@ -11,4 +11,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: Commitsar check
-        uses: docker://aevea/commitsar
+        uses: aevea/commitsar@v0.15.0
