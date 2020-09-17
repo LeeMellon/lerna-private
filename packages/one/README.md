@@ -4,8 +4,4 @@
 
 ## Usage
 
-```
-const one = require('one');
-
-// TODO: DEMONSTRATE API
-```
+CAUTION this is crazy stuff
