@@ -19,7 +19,7 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - uses: amannn/action-semantic-pull-request@v2.0.0
+    - uses: amannn/action-semantic-pull-request@v1.2.10
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - run: npm i
